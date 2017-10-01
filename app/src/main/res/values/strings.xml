@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">24Game</string>
+    <string name="skip">Skip</string>
+    <string name="undo">上一步</string>
+    <string name="hint">提示</string>
+    <string name="restart">重新開始</string>
+</resources>
